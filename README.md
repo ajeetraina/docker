@@ -1,4 +1,3 @@
-## Everything about Docker
 
 # Welcome to Collabnix
 
