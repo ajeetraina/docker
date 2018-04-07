@@ -1,28 +1,26 @@
 
-# Welcome to Collabnix
+# Docker Resources for You
 
-## LinuxKit/Moby
-
-[LinuxKit 101: Getting Started with LinuxKit for Google Cloud Platform](http://collabnix.com/archives/2929) <br>
-[Test-Drive LinuxKit OS on Oracle VirtualBox running on macOS Sierra](http://collabnix.com/archives/3040)<br>
-[Demystifying the Relationship Between Moby & Docker](http://collabnix.com/archives/3077)<br>
+## Introduction to Docker
 
 
-## Swarm Mode<br>
+# Docker Swarm Mode
 
-## Docker 17.04<br>
+# Docker Secrets
 
-## Docker Networking<br>
+# Docker Networking
 
-## Docker Cloud<br>
+# Docker & Python
 
-## Docker Datacenter
+# Docker & Machine Learning
 
-## Docker Compose<br>
+# Docker & CI-CD
 
-## Docker on Raspberry Pi<br>
+# Docker & Django
 
-## DellEMC RexRay, Docker, Cloud<br>
+# Docker & AngularJS
+
+
 
 
 
