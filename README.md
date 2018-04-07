@@ -1,7 +1,7 @@
 
 # Docker Resources for You
 
-## Introduction to Docker
+# Introduction to Docker
 
 
 # Docker Swarm Mode
