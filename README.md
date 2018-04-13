@@ -1,6 +1,8 @@
 
 # Docker Resources for You
 
+[Comparing Docker Vs VM in terms of Performance](https://www.lanner-america.com/blog/containers-vs-virtualization-superior/)<br>
+
 # Introduction to Docker
 
 
