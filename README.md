@@ -1,28 +1,18 @@
 
-# Docker Resources for You
+# Learn Docker in 10 days
 
-[Comparing Docker Vs VM in terms of Performance](https://www.lanner-america.com/blog/containers-vs-virtualization-superior/)<br>
+## Day-1:
+[What are Containers?]()<br>
+[ How is Docker different from Containers?]()<br>
+[ How is Docker different from Virtual Machines?]()<br>
 
-# Introduction to Docker
+## Day-2:
+[ How to install Docker on CentOS?]
+[How to install Docker on Ubuntu?()<br>
+[How to install Docker on Macbook?()<br>
+[How to install Docker on Windows 10?]()<br>
+[How to install Docker on Windows Server 2016?()<br>
 
-
-# Docker Swarm Mode
-
-# Docker Secrets
-
-# Docker Networking
-
-# Docker & Python
-
-[Using Docker Compose for Python Development](https://blog.codeship.com/using-docker-compose-for-python-development/)<br>
-
-# Docker & Machine Learning
-
-# Docker & CI-CD
-
-# Docker & Django
-
-# Docker & AngularJS
 
 
 
