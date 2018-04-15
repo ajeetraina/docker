@@ -2,7 +2,7 @@
 # Learn Docker in 24 Hours
 
 ## Hour #1:
-[What are Containers?](https://github.com/ajeetraina/docker/hour1/intro-containers.md)<br>
+[What are Containers?](https://github.com/ajeetraina/docker/blob/master/hour1/intro-containers.md)<br>
 [ How is Docker different from Containers?]()<br>
 [ How is Docker different from Virtual Machines?]()<br>
 [ What problem does Docker solve for us?]()<br>
