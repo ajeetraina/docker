@@ -1,14 +1,14 @@
 
-# Learn Docker in 10 days
+# Learn Docker in 24 Hours
 
-## Day-1:
+## Hour #1:
 [What are Containers?]()<br>
 [ How is Docker different from Containers?]()<br>
 [ How is Docker different from Virtual Machines?]()<br>
 [ What problem does Docker solve for us?]()<br>
 
 
-## Day-2:
+## Hour #2:
 [How is Docker EE different from Docker EE?]()<br>
 [ How to install Docker on CentOS?]()<br>
 [How to install Docker on Ubuntu?]()<br>
