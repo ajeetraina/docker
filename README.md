@@ -24,7 +24,7 @@
 
 ## Hour #3:
 
-[Docker CLI Cheatsheet]()<br>
+[The `docker ps` Cheatsheet](https://github.com/ajeetraina/docker/blob/master/hour3/docker-ps-cheatsheet.md)<br>
 
 ## Hour #4:
 
