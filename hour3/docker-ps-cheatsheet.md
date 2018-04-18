@@ -88,3 +88,18 @@ docker ps -s
 ```
 docker ps -as
 ```
+
+
+## To list only the containers SHA1:
+
+```
+docker ps -aq --no-trunc
+```
+
+
+
+## List only the name of all containers (since docker ps list only their names with other information):
+
+```
+docker inspect --format='{{.Name}}' $(sudo docker ps -aq --no-trunc)
+```
